@@ -1,0 +1,2 @@
+model: "deepseek-ai/deepseek-coder-6.7b-instruct"
+user_prompt: "Hello, how are you?"
